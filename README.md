@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hi there! 👓
 
-🔧 Work in progress.. 🔨
+Welcome to my GitHub profile! My name is Wei Yang and I am a Computer Science major in Year 2!
+
+This profile serves to hold projects I have done for school (and hopefully personal ones in the future 😅) 
 <!--
 **ltfrosty/ltfrosty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
