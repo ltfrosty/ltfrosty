@@ -1,15 +1,13 @@
+<h1 align="center">I'm WY.</h1>
+<h3 align="center">I make whatever I want.</h3>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ltfrosty&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ltfrosty&theme=gotham&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ltfrosty&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ltfrosty&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ltfrosty&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ltfrosty&show_icons=true&locale=en" alt="ltfrosty" /></p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ltfrosty&" alt="ltfrosty" /></p>
