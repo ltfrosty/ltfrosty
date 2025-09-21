@@ -1,5 +1,5 @@
 <h1 align="left">I'm WY!</h1>
-<h3 align="left">I like to make stuff that don't work!</h3>
+<h3 align="left">I like to code, code well I don't</h3>
 
 <p align="left">
 </p>
